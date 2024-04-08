@@ -20,6 +20,10 @@
 - [canboat](https://github.com/canboat/canboat)
 - [NMEA2000-AIS-Gateway](https://github.com/AK-Homberger/NMEA2000-AIS-Gateway)
 
+### Hardware
+- [MacArthur HAT - NMEA2k HAT for Raspberry Pi](https://openmarine.net/macarthur-hat)
+- [PiCAN-M - CAN bus for Raspberry Pi](https://www.skpang.co.uk/collections/hats/products/copy-of-pican-m-with-can-bus-micro-c-and-rs422-connector-no-smps)
+
 
 ### NMEA2000 Libraries
 - [Arduino / C++](https://github.com/ttlappalainen/NMEA2000)
