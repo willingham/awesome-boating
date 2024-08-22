@@ -2,12 +2,15 @@
 
 > A curated list of awesome boating content!
 
+## Examples, Guides, & Other Resources
+- [Open Boat Projects](https://open-boat-projects.org)
 
 ## Charts & Charting Software
 
 - [OpenCPN](https://opencpn.org)
 - [OpenPlotter](https://github.com/openplotter)
 - [OpenSeaMap](https://www.openseamap.org/index.php?id=openseamap&no_cache=1)
+- [AvNav](https://www.wellenvogel.de/software/avnav/docs/beschreibung.html)
 
 ## Operating Systems
 - [Lysmarine](http://lysmarineos.com/#/)
@@ -33,6 +36,7 @@
 
 ### NMEA0183 Libraries
 - [Python](https://github.com/Knio/pynmea2)
+- [Kplex](https://www.stripydog.com/kplex/)
 
 
 ## Instrumentation
