@@ -26,7 +26,7 @@
 ### Hardware
 - [MacArthur HAT - NMEA2k HAT for Raspberry Pi](https://openmarine.net/macarthur-hat)
 - [PiCAN-M - CAN bus for Raspberry Pi](https://www.skpang.co.uk/collections/hats/products/copy-of-pican-m-with-can-bus-micro-c-and-rs422-connector-no-smps)
-
+- [Hat Labs Shop - Open Marine Electronics](https://shop.hatlabs.fi/)
 
 ### NMEA2000 Libraries
 - [Arduino / C++](https://github.com/ttlappalainen/NMEA2000)
@@ -38,6 +38,8 @@
 - [Python](https://github.com/Knio/pynmea2)
 - [Kplex](https://www.stripydog.com/kplex/)
 
+### GPIO Libraries
+- [WiringPi - GPIO Library in C/Python/PHP/Perl/Ruby/Node](https://github.com/WiringPi/WiringPi)
 
 ## Instrumentation
 ### AIS
