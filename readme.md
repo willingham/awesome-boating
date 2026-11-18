@@ -11,6 +11,7 @@
 - [OpenPlotter](https://github.com/openplotter)
 - [OpenSeaMap](https://www.openseamap.org/index.php?id=openseamap&no_cache=1)
 - [AvNav](https://www.wellenvogel.de/software/avnav/docs/beschreibung.html)
+- [Ocean Depth Map - free approximate sea depth chart, not for navigation](https://depth.hertzmc.com/)
 
 ## Operating Systems
 - [Lysmarine](http://lysmarineos.com/#/)
